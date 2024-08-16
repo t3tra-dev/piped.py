@@ -7,7 +7,7 @@ name = "piped.py"
 dynamic = ["version"]
 license = { text = "MIT" }
 authors = [
-  { name="vex12853", email="admin@vex12853.net" },
+  { name="t3tra", email="admin@t3tra.net" },
 ]
 description = "API wrapper for Piped written in Python.\n- [documentation]"
 readme = "README.rst"
@@ -19,8 +19,8 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/vex12853-sub/piped.py"
-Issues = "https://github.com/vex12853-sub/piped.py/issues"
+Homepage = "https://github.com/t3tra-dev/piped.py"
+Issues = "https://github.com/t3tra-dev/piped.py/issues"
 
 [tool.setuptools.dynamic]
 version = {attr = "piped.__version__"}

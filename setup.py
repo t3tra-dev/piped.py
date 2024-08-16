@@ -1,5 +1,6 @@
 import codecs
 import os.path
+
 from setuptools import setup, find_packages
 
 

@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.abspath("../"))
 project = 'piped.py'
 copyright = '2024, t3tra'
 author = 't3tra'
-version = '0.1.0'
+version = '0.2.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

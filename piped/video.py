@@ -232,7 +232,7 @@ class Video:
                                 width=i["width"],
                                 fps=i["fps"]))
         return r
-    
+
     @property
     def related_videos(self) -> list[RelatedVideo]:
         r = []
